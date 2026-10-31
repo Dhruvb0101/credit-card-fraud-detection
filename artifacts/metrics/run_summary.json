@@ -1,0 +1,9 @@
+{
+  "data_path": "data\\raw\\creditcard.csv",
+  "rows_used": 119798,
+  "best_model": "xgboost",
+  "decision_threshold": 0.9939223527908325,
+  "shap_status": "completed",
+  "metrics_file": "C:\\Creditcard_fraud\\credit-card-fraud-detection-imbalanced-ml-shap-fastapi-streamlit\\artifacts\\metrics\\model_comparison.csv",
+  "best_model_file": "C:\\Creditcard_fraud\\credit-card-fraud-detection-imbalanced-ml-shap-fastapi-streamlit\\artifacts\\models\\best_model.joblib"
+}

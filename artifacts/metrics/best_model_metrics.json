@@ -1,0 +1,20 @@
+{
+  "model_name": "xgboost",
+  "fit_mode": "primary",
+  "fit_seconds": 12.144,
+  "threshold_tuned": 0.9939223527908325,
+  "precision_default": 0.8333333333333334,
+  "recall_default": 0.875,
+  "f1_default": 0.8536585365853658,
+  "roc_auc_default": 0.9889454431438127,
+  "pr_auc_default": 0.8696242569263407,
+  "precision_tuned": 0.9444444444444444,
+  "recall_tuned": 0.85,
+  "f1_tuned": 0.8947368421052632,
+  "roc_auc_tuned": 0.9889454431438127,
+  "pr_auc_tuned": 0.8696242569263407,
+  "tp_tuned": 34,
+  "fp_tuned": 2,
+  "fn_tuned": 6,
+  "tn_tuned": 23918
+}

@@ -1,0 +1,10 @@
+{
+  "status": "completed",
+  "global_beeswarm_plot": "C:\\Creditcard_fraud\\credit-card-fraud-detection-imbalanced-ml-shap-fastapi-streamlit\\artifacts\\shap\\shap_summary_beeswarm.png",
+  "global_bar_plot": "C:\\Creditcard_fraud\\credit-card-fraud-detection-imbalanced-ml-shap-fastapi-streamlit\\artifacts\\shap\\shap_summary_bar.png",
+  "local_plots": [
+    "C:\\Creditcard_fraud\\credit-card-fraud-detection-imbalanced-ml-shap-fastapi-streamlit\\artifacts\\shap\\shap_local_waterfall_1.png",
+    "C:\\Creditcard_fraud\\credit-card-fraud-detection-imbalanced-ml-shap-fastapi-streamlit\\artifacts\\shap\\shap_local_waterfall_2.png"
+  ],
+  "feature_count": 33
+}

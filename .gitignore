@@ -1,0 +1,26 @@
+# Python environments
+.venv/
+venv/
+env/
+__pycache__/
+*.py[cod]
+*.egg-info/
+
+# Testing and notebooks
+.pytest_cache/
+.mypy_cache/
+.ipynb_checkpoints/
+
+# Logs
+logs/
+
+# Original dataset (150 MB)
+data/raw/creditcard.csv
+
+# Temporary processed data
+data/processed/*.csv
+
+# OS and editor
+.DS_Store
+Thumbs.db
+.vscode/
